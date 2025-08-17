@@ -23,6 +23,14 @@ This repository contains the Gender Classification System developed for a Humano
 
 * NumPy
 
+## Dataset
+
+https://drive.google.com/drive/folders/1LGRt5SGPTJkDEqPhMIYzH_9o7aJq62US
+
+## Results
+
+https://www.youtube.com/watch?v=Rx7eNByvYJg
+
 ## Applications in Humanoid Robot 🤖
 
 * Receptionist Robots – greeting and addressing people naturally.
