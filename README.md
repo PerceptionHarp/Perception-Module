@@ -1,5 +1,6 @@
 # Gender Classification
-This repository contains the Gender Classification System developed for a Humanoid Assistance Robot. The system uses a deep learning model to classify gender in real time from a video feed, enabling the robot to provide personalized assistance and improve human-robot interaction.
+This repository contains the Gender Classification System developed for a Humanoid Assistance Robot.
+The system leverages a Convolutional Neural Network (CNN) to classify gender in real-time from a live video feed captured by the RealSense camera. By integrating this deep learning model, the robot is able to recognize gender with high accuracy, allowing it to deliver personalized assistance and enhance the overall human-robot interaction experience.
 
 ## Features 🚀
 
