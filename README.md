@@ -14,13 +14,13 @@ The system leverages a Convolutional Neural Network (CNN) to classify gender in 
 
 ## Tech Stack 🛠️
 
-* Language: Python 3.x
+* Language: Python 3.10.0.84
 
 * Frameworks & Libraries:
 
 * Ultralytics YOLOv8 / TensorFlow Lite
 
-* OpenCV
+* OpenCV 2
 
 * NumPy
 
